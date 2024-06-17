@@ -1,0 +1,114 @@
+#botaoComprar{
+    height: 45px;
+    width: 300px;
+    background-color: rgb(255, 195, 227);
+    color: rgb(136, 136, 136);
+    border: 0px;
+    /* position: fixed; */
+    font-size: 25px;
+    font-style: oblique;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+   border-radius: 10px;
+    
+}
+h1{
+    color: rgb(255, 182, 221) ;
+    padding: 25px;
+}
+
+body{
+    background-color: rgb(252, 233, 247);
+    padding: 0px;
+    border: 0px;
+
+}
+
+main{
+    color: rgb(136, 136, 136);
+    font-size: 15px;
+    height: 1500px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  
+}
+
+#a{
+    color:  rgb(136, 136, 136); 
+    font-size: 25px;
+    margin: 10px 30px ;
+    display: block;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: none;
+    border: 5px solid rgb(255, 182, 221);
+    width: fit-content;
+    border-radius: 10px;
+    
+    
+}
+a, a:visited{
+    color:  rgb(136, 136, 136);
+    text-decoration: none;
+}
+
+
+.img-bolsa{
+    height: 300px;
+    width: 250px;
+    border: 10px solid  rgb(255, 172, 218)  ;
+    border-radius: 10px;
+    
+
+}
+
+.oculto{
+    display: none;
+}
+
+.div-bolsa{
+    text-align: center;
+    
+}
+
+#comprar{
+    padding-top: 50px;
+}
+
+p{
+    font-size: larger;
+}
+
+ul{
+    font-size: larger;
+}
+
+.botaoFechar{
+    background-color: rgb(252, 233, 247);
+    color: rgb(136, 136, 136);
+    border: 0px;
+    font-size: x-large;
+}
+
+
+
+header{
+    color: rgb(136, 136, 136);
+    background-color: rgb(255, 172, 218);
+    position: fixed;
+    /* position: sticky ; */
+    border: 10px solid  rgb(255, 172, 218);
+    padding: 0%;
+    width: 100%;
+    top: 0px;
+    left: 0px;
+    text-decoration: none;
+    display: flex;
+    justify-content: space-evenly;
+    
+
+    
+   
+
+    
+
+}

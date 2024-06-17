@@ -1,0 +1,32 @@
+/* .principal{
+    height: 400px;
+    width: 400px;
+    background-color: rgb(9, 134, 242);
+
+}
+/*quando o mause esta sobre o elemnto*/
+/* .principal:hover{
+    background-color: aqua;
+
+} */
+/*quando o elemnto é clicado*/
+/* .principal:active{
+    background-color: aquamarine;
+}
+
+.texto{
+    color: brown;
+}
+
+.texto:focus{
+    color: blue;
+} */
+ /*quando o link ja foi visitado*/
+/* a{
+    text-decoration: none;
+}
+
+.btn-enviar{
+    color: brown;
+
+} */ 

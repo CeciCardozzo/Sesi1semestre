@@ -1,0 +1,27 @@
+.google:hover{
+    color: rgb(0, 179, 255);
+}
+
+.youtube:hover{
+    color: rgb(0, 217, 255);
+}
+
+.mudarCor:active{
+    color: rgb(119, 43, 226);
+}
+
+.texto:focus{
+    color: rgb(43, 195, 226);
+}
+
+.estudante:visited{
+    color:rgb(60, 0, 255);
+}
+
+.quadrado{
+    height: 200px;
+    width: 200px;
+    color: rgb(42, 144, 165);
+    background-color: rgb(194, 194, 252);
+}
+

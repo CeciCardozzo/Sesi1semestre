@@ -1,0 +1,18 @@
+h1{
+    color: rgb(0, 162, 255); 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    letter-spacing: 3px;
+}
+#p1{
+    color: rgb(0, 190, 224);
+    
+}
+li{
+    list-style: circle
+}
+
+
+/* p{
+    color: rgb(124, 2, 98);
+} */
+

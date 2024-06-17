@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="codigo.js" defer></script>
+</head>
+<body>
+    <h1>IMC</h1>
+<form onsubmit="calcular(event)">
+    <label for="id_nome">Nome</label>
+    <input type="text" placeholder="Digite aqui seu nome" id="id_nome" name="id_nome"><br>
+
+    
+    <label for="id_altura">Altura</label>
+    <input type="number" step="0.01" placeholder="Digite aqui sua altura" id="id_altura" name="id_altura"><br>
+
+    
+    <label for="id_peso">Peso</label>
+    <input type="number" step="0.01" placeholder="Digite aqui seu peso" id="id_peso" name="id_peso"><br>
+
+    
+    <label for="id_profissao">Profissão</label>
+    <input type="text" placeholder="Digite aqui sua profissão" id="id_profissao" name="id_profissao"><br>
+
+    
+    <label for="id_url">foto</label>
+    <input type="url" placeholder="Digite aqui o url de alguma foto" id="id_url" name="id_url"><br>
+    
+    <button type="submit">Clique aqui para saber o seu imc</button>
+    
+    <p id="paragrafo"></p>
+
+</form>
+</body>
+</html>
